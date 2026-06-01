@@ -4,7 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-25D366?style=for-the-badge&logo=googlechrome&logoColor=white)](https://statictemplate.sajilodigital.com.np)
 [![Made by Sajilo Digital](https://img.shields.io/badge/Made%20by-Sajilo%20Digital-1e4b6e?style=for-the-badge)](https://sajilodigital.com.np)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-Custom%20Non--Commercial-red?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -180,7 +180,7 @@ Every page includes:
 
 ## 📄 License
 
-This project is **proprietary software** developed by [Sajilo Digital](https://sajilodigital.com.np). The source code is provided as part of a one-time purchase. You may use and modify it for your own business, but you may not resell or redistribute the template.
+This project is for educational and personal learning purposes only. Commercial use, public deployment, or any revenue-generating use requires explicit written permission from the author. See [LICENSE](LICENSE) for details.
 
 ---
 
